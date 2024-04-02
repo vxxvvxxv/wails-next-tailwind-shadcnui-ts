@@ -1,0 +1,7 @@
+{
+    "name": "Wails + Next.js + TailwindCSS + shadcn/ui + TypeScript",
+    "shortname": "wails-next-tailwind-shadcnui-ts",
+    "author": "vxxvvxxv",
+    "description": "A Wails template generated with Next.js that includes TailwindCSS, shadcn/ui, and TypeScript",
+    "helpurl": "https://github.com/vxxvvxxv/wails-next-tailwind-shadcnui-ts"
+  }
