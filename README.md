@@ -1,4 +1,6 @@
-# README
+# Wails + Next.js + TailwindCSS + shadcn/ui + TypeScript
+
+![example](https://github.com/vxxvvxxv/wails-next-tailwind-shadcnui-ts/blob/main/example.png?raw=true)
 
 ## About
 
