@@ -8,7 +8,7 @@ This template comes with Next.js, TypeScript, TailwindCSS and shadcn/ui.
 
 Built with:
 
-- `Wails v2.8.0`
+- `Wails v2.9.1`
 - `Next.js 14.1.4`
 - `TypeScript`
 - `TailwindCSS`
